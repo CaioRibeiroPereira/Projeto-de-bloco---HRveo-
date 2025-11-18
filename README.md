@@ -1,9 +1,3 @@
-Perfeito, Caio!
-Com **TP1**, **TP2** e **TP3** completos, consigo montar agora um **README.md completo, bonito, organizado e profissional** para o seu projeto **HRveo**.
-
-Abaixo está o conteúdo pronto para colar no seu repositório GitHub.
-
----
 
 # 📘 HRveo — Sistema de Gestão de Recursos Humanos
 
