@@ -1,0 +1,137 @@
+[
+    {
+        "id_funcionario": 1,
+        "nome": "João da Silva Rodrigues",
+        "id_cargo": 2,
+        "id_departamento": 3,
+        "salario": 4800.00,
+        "data_contratacao": "2023-03-16",
+        "cargo_confianca": false
+    },
+    {
+        "id_funcionario": 2,
+        "nome": "Maria Oliveira",
+        "id_cargo": 3,
+        "id_departamento": 2,
+        "salario": 6200.00,
+        "data_contratacao": "2019-04-19",
+        "cargo_confianca": true
+    },
+    {
+        "id_funcionario": 3,
+        "nome": "Pedro Santos",
+        "id_cargo": 2,
+        "id_departamento": 3,
+        "salario": 5100.00,
+        "data_contratacao": "2022-01-01",
+        "cargo_confianca": false
+    },
+    {
+        "id_funcionario": 4,
+        "nome": "Ana Souza",
+        "id_cargo": 4,
+        "id_departamento": 1,
+        "salario": 7500.00,
+        "data_contratacao": "2020-01-01",
+        "cargo_confianca": true
+    },
+    {
+        "id_funcionario": 5,
+        "nome": "Lucas Lima",
+        "id_cargo": 4,
+        "id_departamento": 2,
+        "salario": 7900.00,
+        "data_contratacao": "2021-05-01",
+        "cargo_confianca": true
+    },
+    {
+        "id_funcionario": 6,
+        "nome": "Fernanda Costa",
+        "id_cargo": 5,
+        "id_departamento": 4,
+        "salario": 9400.00,
+        "data_contratacao": "2020-06-15",
+        "cargo_confianca": true
+    },
+    {
+        "id_funcionario": 7,
+        "nome": "Ricardo Alves",
+        "id_cargo": 6,
+        "id_departamento": 2,
+        "salario": 16500.00,
+        "data_contratacao": "2021-12-21",
+        "cargo_confianca": true
+    },
+    {
+        "id_funcionario": 8,
+        "nome": "Beatriz Martins",
+        "id_cargo": 7,
+        "id_departamento": 4,
+        "salario": 32500.00,
+        "data_contratacao": "2022-08-04",
+        "cargo_confianca": true
+    },
+    {
+        "id_funcionario": 9,
+        "nome": "Marcos Pereira",
+        "id_cargo": 1,
+        "id_departamento": 1,
+        "salario": 3100.00,
+        "data_contratacao": "2024-02-10",
+        "cargo_confianca": false
+    },
+    {
+        "id_funcionario": 10,
+        "nome": "Juliana Freitas",
+        "id_cargo": 2,
+        "id_departamento": 3,
+        "salario": 5200.00,
+        "data_contratacao": "2024-03-18",
+        "cargo_confianca": false
+    },
+    {
+        "id_funcionario": 11,
+        "nome": "Thiago Moreira",
+        "id_cargo": 3,
+        "id_departamento": 2,
+        "salario": 6800.00,
+        "data_contratacao": "2024-05-22",
+        "cargo_confianca": false
+    },
+    {
+        "id_funcionario": 12,
+        "nome": "Carolina Ribeiro",
+        "id_cargo": 4,
+        "id_departamento": 1,
+        "salario": 8000.00,
+        "data_contratacao": "2023-09-01",
+        "cargo_confianca": true
+    },
+    {
+        "id_funcionario": 13,
+        "nome": "Sérgio Andrade",
+        "id_cargo": 1,
+        "id_departamento": 3,
+        "salario": 3200.00,
+        "data_contratacao": "2025-01-03",
+        "cargo_confianca": false
+    },
+    {
+        "id_funcionario": 14,
+        "nome": "Camila Faria",
+        "id_cargo": 2,
+        "id_departamento": 2,
+        "salario": 5400.00,
+        "data_contratacao": "2024-09-13",
+        "cargo_confianca": false
+    },
+    {
+        "id_funcionario": 15,
+        "nome": "Eduardo Soares",
+        "id_cargo": 3,
+        "id_departamento": 4,
+        "salario": 6900.00,
+        "data_contratacao": "2025-02-01",
+        "cargo_confianca": false
+    }
+]
